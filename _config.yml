@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiang Zheng"
+title                    : 
 title_separator          : "-"
 name                     : &name "Xiang Zheng"
 description              : &description "personal description"
